@@ -29,6 +29,13 @@ Thumbs.db
 *.d.ts.map
 *.d.ts
 !*.d.ts.template
+package-lock.json
+yarn.lock
+.pnp.js
+.pnp.cjs
+.pnp.mjs
+.pnp.json
+.pnp.ts
 
 # Demo and Example Directories
 demo/
@@ -165,3 +172,4 @@ coverage/
 *.swo
 *~
 .history/
+.gitignore
